@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+
+# this dataset exceeds GitHub's 50 MB file size limit
+*.dat
